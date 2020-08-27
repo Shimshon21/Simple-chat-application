@@ -1,2 +1,2 @@
 # Simple-chat-application
-Two small chat application written with Java:
+Simple chat applications , each work with differant protocol such as TCP and UDP.
