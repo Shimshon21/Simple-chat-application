@@ -8,8 +8,9 @@ To use the app:
 
 Short chat example:
 <p>
-   <img src = "https://github.com/Shimshon21/Simple-chat-applications/blob/master/ChatApp-TCP/Short%20chat%20example.gif?raw=true" />
+   
+   <img src = "https://github.com/Shimshon21/Simple-chat-applications/blob/master/ChatApp-TCP/Short%20chat%20example.gif?raw=true" height = "450"/>
 
  </p>
 Chat wiindow example:
- <img src="https://raw.githubusercontent.com/Shimshon21/Simple-chat-applications/master/ChatApp-TCP/Chat%20example.PNG" />
+ <img src="https://raw.githubusercontent.com/Shimshon21/Simple-chat-applications/master/ChatApp-TCP/Chat%20example.PNG" height = "450" />
