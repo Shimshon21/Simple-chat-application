@@ -24,4 +24,10 @@ Chat wiindow example:
  2.Run the client.java by number of users.(make sure the IDE allowwing parrallel run.)
  
  Group chat examples:
+ <p>
+   <img src = "https://user-images.githubusercontent.com/31563236/93686502-56317200-fabf-11ea-8539-a15595afa08e.PNG" height = "450"/>
+    <img src = "https://user-images.githubusercontent.com/31563236/93686503-56317200-fabf-11ea-8332-41e8b9e856f4.PNG" height = "450"/>
+    <img src = "https://user-images.githubusercontent.com/31563236/93686501-5598db80-fabf-11ea-8da3-0383ba04322a.PNG" height = "450"/>
+ </p>
+
  
